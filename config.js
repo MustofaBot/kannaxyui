@@ -52,26 +52,26 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://youtube.com/c/LeonGanz/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
+global.pdana = 'Chat Owner'
+global.povo = 'chat owner'
+global.pgopay = 'chat owner'
+global.ppulsa = '08977225435'
+global.ppulsa2 = '08977225435'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895410472842'
-global.nomorown = '6285608625102'
-global.namebot = 'Yui - Chan'
-global.nameown = 'Rama -Agung'
+global.nomorbot = '628977225435'
+global.nomorown = '628998835033'
+global.namebot = 'MustofaBotz'
+global.nameown = 'Mustofa'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true] //Ganti jd nomormu sama Namamu
+  ['628998835033', 'MustofBOTZ', true],
+  ['628998835033', 'MustofaBOTZ', true],
+  ['628998835033', 'MustofaBOTZ', true],
+  ['62899883503', 'MustofaBOTZ', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
